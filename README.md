@@ -1,6 +1,6 @@
 ### Hi, I'm CZ 🤘
 
-**Product manager; escaped containment.**
+**Product guy; escaped containment.**
 Once described as "a precision bull in a china shop."
 
 I like building the connective tissue that turns "an LLM" into something that actually does the work instead of just talking about it. Once in a while I write up the reusable parts so the next person doesn't have to reverse-engineer them the way I did.
