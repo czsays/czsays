@@ -16,4 +16,4 @@ I like building the connective tissue that turns "an LLM" into something that ac
 - [agent-connector-kit](https://github.com/czsays/agent-connector-kit) — reference connectors for wiring agents into the real world
 - [spire-slayer](https://github.com/czsays/spire-slayer) — a macOS companion for Slay the Spire 2 that reads the board and calls the optimal line
 
-Sure, yeah, GitHub is awash with this stuff right now. The code isn't important, but learning is cool and ✨ knowledge is power ✨. Discerning which parts are worth keeping and which to cut bait on is the real challenge. I write about that as I go, occasionally.
+Sure, yeah, GitHub is awash with this stuff right now. I'm not precious about the code — half of it goes obsolete in a week. Teaching myself through reps what's worth keeping and where I should bail out is the valuable part. Plus learning is cool and ✨ knowledge is power ✨. Occasionally I'll write about it as I go.
